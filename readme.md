@@ -34,11 +34,13 @@ Edit the `constants.py` file to configure the script parameters:
     ```bash
     cd Image-gray-scale
 3. Install dependencies: 
-    ```bash pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 4. Edit constants.py to configure parameters as per your requirements.
 5. Run the script: 
-    ```bash python main.py
+    ```bash
+    python main.py
 
 
 
