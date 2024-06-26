@@ -42,5 +42,3 @@ Edit the `constants.py` file to configure the script parameters:
     ```bash
     python main.py
 
-
-
