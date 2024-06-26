@@ -29,20 +29,11 @@ Edit the `constants.py` file to configure the script parameters:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Image-gray-scale.git
-2. Navigate to the project directory:
-
-
-cd Image-gray-scale
-3. Install dependencies: 
-
-
-pip install -r requirements.txt
+   git clone https://github.com/wassim-cheikh/Image-Gray-Scale-Converter
+2. Navigate to the project directory: ```bash cd Image-gray-scale
+3. Install dependencies: ```bash pip install -r requirements.txt
 4. Edit constants.py to configure parameters as per your requirements.
-
-5. Run the script:
-
-python main.py
+5. Run the script: ```bash python main.py
 
 
 
